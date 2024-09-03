@@ -1,3 +1,0 @@
-[submodule "air_arkanoid/engine"]
-	path = air_arkanoid/engine
-	url = https://github.com/flipperdevices/flipperzero-game-engine.git
